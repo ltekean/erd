@@ -1,0 +1,8 @@
+1. 프로젝트 세팅
+2. 앱, 템플릿 폴더 생성
+3. 프로젝트 settings.py 앱,템플릿 알려주기
+4. url 연결
+5. views.py 'GET' 요청시 실행할 함수 작성
+6. 템플릿 폴더에 알맞은 HTML 파일 생성
+7. views.py 'POST' 요청시 실행할 함수 작성
+8. 회원가입에 필요한 USER_MODEL 작성 (AbstractUser)
